@@ -23,7 +23,7 @@ class Tea extends Component {
   				scrolling="no">
   			</iframe>
 			 <h1>Clear your Mind!</h1>
-			      <h3>(close your eyes focus on your breath)</h3>
+			 <h3>(close your eyes focus on your breath)</h3>
 				</div>
 			</div>
 		
